@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "urldecode": "^1.0.1"
+  },
+  "scripts": {
+    "rename": "node ./index.js"
+  }
+}
